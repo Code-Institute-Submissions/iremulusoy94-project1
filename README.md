@@ -1,39 +1,33 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Mindful Journeys Website
 
-Welcome,
+Welcome to the Mindful Journeys website! This project contains the code for our awesome website that promotes mindfulness, yoga, meditation, and well-being.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## What's This Website About?
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+Mindful Journeys is a special place where you can learn about being more mindful and taking care of yourself. We have pages about yoga, meditation, and mindfulness. It's all about finding balance and feeling good inside and out.
 
-## Codeanywhere Reminders
+## How to Use the Website?
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+To see our website, just open the HTML files in your web browser! You can click on the different pages using the menu at the top of each page. It's easy!
 
-`python3 -m http.server`
+If you want to change how the website looks, you can play around with the CSS file (assets.css/style.css). It's like giving the website a new outfit!
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## How to Get Started?
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+1. First, download or clone this project to your computer.
+2. Open the HTML files with your web browser to check out each page.
+3. If you want to make it look different, try changing the CSS file!
 
-`http_server`
+## Found a Bug or Have an Idea?
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+We're happy to hear from you! If you find any issues or have cool ideas to make the website even better, just let us know. You can send us a message or make changes yourself and tell us about it.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Credits
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+- The images used in this project are from [Pexels](https://www.pexels.com/).
+- The audio track used in this project is from [Free Music Archive](https://freemusicarchive.org/).
+  
+Enjoy your Mindful Journeys!
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
