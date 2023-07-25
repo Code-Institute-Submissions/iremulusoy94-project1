@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "python.formatting.provider": "autopep8",
+    "python.linting.enabled": false
+}

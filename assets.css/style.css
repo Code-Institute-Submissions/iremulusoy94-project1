@@ -1,0 +1,82 @@
+code body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Georgia', serif;
+    font-size: 28px;
+    color: #000;
+}
+
+h3 {
+    text-align: center;
+    margin: 20px 10px;
+    font-family: 'Verdana', sans-serif;
+    font-size: 18px;
+    color: #000;
+}
+
+nav {
+    background-color: #000;
+    padding: 10px 0;
+}
+
+ul.horizontal-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+ul.horizontal-list li {
+    margin-right: 20px;
+}
+
+ul.horizontal-list li:last-child {
+    margin-right: 0;
+}
+
+ul.horizontal-list li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    font-family: 'Courier New', monospace;
+}
+
+ul.horizontal-list li a:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+    color: #fff;
+    padding: 10px 0;
+}
+.audio-holder {
+    max-width: 300px;
+    /* Set the maximum width of the audio player */
+    margin: 0 auto;
+    /* Center the audio player horizontally */}
+
+p {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    margin: 20px 0;
+    color: #000;
+}
+   /* Style for the image */
+   img.wavespic {
+       max-width: 100%;
+       display: block;
+       margin: 0 auto;
+   }
